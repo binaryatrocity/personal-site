@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/binaryatrocity
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brandoncornejo.name
+  * I am binaryatrocity (https://keybase.io/binaryatrocity) on keybase.
+  * I have a public key with fingerprint 1675 E26E 4EC1 9B3F EDA9  3F1B C6C6 244D EB08 40B3
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1675e26e4ec19b3feda93f1bc6c6244deb0840b3",
+            "host": "keybase.io",
+            "key_id": "c6c6244deb0840b3",
+            "uid": "9e8c1af3aef784eb49db870f65fc9d00",
+            "username": "binaryatrocity"
+        },
+        "service": {
+            "hostname": "brandoncornejo.name",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402673009,
+    "expire_in": 157680000,
+    "prev": "91b364e0d37a4050bd62c3f295201f39c890dc2e57ce40857b43edeb68a468fc",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMMIAnicbZF9UBRlHMfvwCPEMGckUarJ2TmZDg7au31uX46hNNQYC3oRRmuSY1+e
+5RZi99jbO2QODCEmaXB40zFOhuDCchA465zIwpeuuByZLGGSBCOHDEcJLKsZXtU9
+Jv/r+Wdnf9/P9/t7nt/v29hITYw2FNJnTUVvDmgHz993aXYejS/xIIzElSFWD1IE
+lz+8IBZA2SELooJYERNOWKAZhwCyJorBeMjRFMabGBZncTMAHGRQEqAMhhgRu+QM
+O9QYhnbCVEFSa+qPTeDU6v/wrmWBgiRronmMhjxBAsgAimNIAuVxC89SHIqGQSeU
+RboYqjQjiLRcRiuyxApKGVJhRFTNLbCq5lm+wENOpkVOEllJFmGhlLpcNSIOWVIk
+VnpbBeyK4rCG/UqZI2wohYztvyib2oRTh6Aa3FB2CpKIWE0qySpCONsEUDNOYChK
+GRG41yHI0CaECQuBk6h6wm2gO/wyE4PhAKIcRtAAtaAMh5tZjDdTFjNq4jGKJSmU
+Y83QQrAQoKSFYAAG1QHhJA1wkmfV/k5YIkpqthqq0AVqplMoEGnFJUOkIvj1Wys0
+2hhNlC4ivEdNzMo1D7ebWLhGsz+PndswdEubHtqlT/FNlK5MStHtBpzvhBw/lrvq
+gCZ5R3XR4oU7q/ft6Z3cXp0Hin/jvU3Ff7Voj30/w/lv7L1VncHXYCWHW8+5F1ov
+xhoSymv/rDzy1J3io5XjLdzJVZaiDGD26iqm1i4mdf7zzPDN0pngpZ1I/cTSoe3r
+IjuGbga9C3ue/vWjv/3DBfMwmD7Y/fIHxO8LvSMLmPFwfd4cMX1l6F7yvM0+8PFE
+1dX7czW+PgO4Xjn8+GsRQHh+W+uupnJmU0Ky/tO2nnemKj5pd03F9bi7jr8+dHY+
+Hfa+MPriCXtOR13OkYGt6yN6HnVPNvUfCA32r4/ufvW9TsMjra6M0iXP3cZTj80u
+nB0P3qt4ti5QHYryLPVNb/oyMQrrnnvCNbOFXJfqiz6DrfXK7q3g8saGg3TD6oiB
+25PgStzIdCNqRfP9tn3Z5+sGi+qtCZujcz8/kzsgNv78o6cTjtDt7e9ediSOXpxM
+aubfaF78JTtz7AfwXMhIXnB9E+pfcb0Lr32y7dCG9+fHFdE+k1pyadsYSMv2pyeW
+xCOnP0wY9enKa77LDPhi26sC+XpwvPygeC7upRtxO9KOvdnXZVjKyM3fHfBf4165
+dnfp9tWqfxXBmxIzfpJt/KlN36yjDJORsxFbZomsrI7kP6b2p32R2dJ0KtDwWa3/
+q5zT01LhA+79oPs=
+=2aF/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/binaryatrocity
+
+==================================================================
+
